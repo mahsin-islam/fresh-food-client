@@ -1,4 +1,4 @@
-# frsh-food-server
+# fresh-food-client
 # [Fresh Food](https://fresh-food-aad95.web.app/) 
 ![Fresh Food](src/images/logo.png)
 ## Details 
@@ -36,4 +36,4 @@
 ## CheckOut page!
 ![Fresh Food](src/images/checkout.png)
 
-# fresh-food-client
+
