@@ -1,0 +1,13 @@
+.btn-success:active,
+.btn-success.active {
+  color: #55a646 !important;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #55a646 !important;
+    border-color: #717e78;
+}
+.text-lime-green {
+    color: #55a646 !important;
+}

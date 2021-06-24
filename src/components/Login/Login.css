@@ -1,0 +1,52 @@
+
+.social-btn .btn {
+	color: #fff;
+	margin: 10px 0 0 15px;
+	font-size: 15px;
+	border-radius: 50px;
+	font-weight: normal;
+	border: none;
+	transition: all 0.4s;
+}	
+.social-btn .btn:first-child {
+	margin-left: 0;
+}
+.social-btn .btn:hover {
+	opacity: 0.8;
+}
+.social-btn .btn-primary {
+	background: #507cc0;
+}
+.social-btn .btn-info {
+	background: #64ccf1;
+}
+.social-btn .btn-danger {
+	background: #df4930;
+}
+.social-btn .btn i {
+	float: left;
+	margin: 3px 10px;
+	font-size: 20px;
+}
+
+
+.or-seperator {
+	margin: 50px 0 15px;
+	text-align: center;
+	border-top: 1px solid #e0e0e0;
+}
+.or-seperator b {
+	padding: 0 10px;
+	width: 40px;
+	height: 40px;
+	font-size: 16px;
+	text-align: center;
+	line-height: 40px;
+	background: #fff;
+	display: inline-block;
+	border: 1px solid #e0e0e0;
+	border-radius: 50%;
+	position: relative;
+	top: -22px;
+	z-index: 1;
+}
